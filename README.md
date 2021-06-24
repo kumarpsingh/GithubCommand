@@ -21,7 +21,7 @@ git push origin master
 
 git status
 
-git checkout -b <branchname>
+git checkout -b <branchname>   -- To create new branch
 
 git checkout <branchname>
 
